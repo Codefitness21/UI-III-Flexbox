@@ -136,19 +136,21 @@ h1, h2, h3, h4, h5 {
 .container {
 	width: 900px;
 	height: 1250px;
-	margin: auto;	
+	margin: auto;
 	border: 1px solid red;
 }
 
 header nav {
-	display:inline-block;
+	display: flex;
+	justify-content: left;
 	color: gray;
 }
 
 header img.logo {
 	margin-left: 140px;
 	margin-top: 20px;
-	display: inline-block;
+	display: flex;
+	flex-direction: row;
 }
 
 header nav a {
@@ -161,8 +163,8 @@ h1 {
 font-size: 80px;
 text-align: center;
 width: 40%;
-margin-top: 50px;
-display: inline-block;
+display: flex;
+justify-content: center;
 }
 
 
@@ -170,16 +172,17 @@ button {
 	width: 100px;
 	margin-left: 15%;
 	padding: 10px;
-	display: block;
+	display: flex;
+	justify-content: center;
 	margin-bottom: 100px;
 }
 
 .cta img  {
 	margin-left: 500px;
-	display: inline-block;
+	display: flex;
+	justify-content: center;
 	position: absolute;
 	top: 70px;
-	bottom: 700px;
 	right: 300px;
 }
 
@@ -233,13 +236,13 @@ img.middle-img {
 	float: left; 
 	width: 100%;
 	margin: auto;
-	margin-top: 30px;;
+	margin-top: 30px;
 	padding: 11px;	
 }
 
-
 footer {
-	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
 	font-size: 12px;
 	position: fixed;         
     bottom: 0px; 
