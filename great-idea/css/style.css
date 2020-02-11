@@ -93,7 +93,7 @@ header nav a {
 	margin: 20px;
 }
 
-img.services-header-img {
+.services-header-img {
 padding: 11px;
 }
 
@@ -183,15 +183,15 @@ button {
 #some {
 	display: flex;
 	text-align: right;
+	
 	margin-top: -600px;	
-	width: 250px;
+	width: 25%;
 }
 
 .services-info-img {
 	margin-left: 725px;
 	margin-top: -240px;
 	padding: 17px;
-	display: flex;
 	width: 31%;
 }
 
