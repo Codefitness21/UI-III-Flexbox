@@ -169,7 +169,6 @@ h3 {
 	border: 1px solid black;
 	padding: 17px;
 	margin: 20px;
-	
 }
 
 button {
@@ -194,15 +193,12 @@ button {
 	margin-top: -650px;
 }
 
-
 .list {
 	text-align: left;
 	display: flex;
 	justify-content: right;
     margin-left: 20px;
   }
-
-  
 
 .services-info-img {
 	display: flex;
