@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Codefitness21/UI-III-Flexbox/issues"
   },
-  "homepage": "https://Codefitness21.github.io/UI-III-Flexbox/great-idea/Services.html",
+  "homepage": "https://Codefitness21.github.io/UI-III-Flexbox",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
