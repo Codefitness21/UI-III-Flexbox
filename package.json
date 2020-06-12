@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Codefitness21/UI-III-Flexbox.git"
+    "url": "git+https://github.com/codefitness21/UI-III-Flexbox.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Codefitness21/UI-III-Flexbox/issues"
+    "url": "https://github.com/codefitness21/UI-III-Flexbox/issues"
   },
-  "homepage": "https://Codefitness21.github.io/UI-III-Flexbox",
+  "homepage": "https://codefitness21.github.io/UI-III-Flexbox",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
